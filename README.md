@@ -8,5 +8,3 @@ TO DO:
 - CI/CD pipeline
 - pytest BDD and playwright
 - Bootrap on frontend
-# wagtail-blogsite
-# wagtail-blogsite
